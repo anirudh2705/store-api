@@ -1,0 +1,24 @@
+{
+  "name": "store-api",
+  "version": "1.0.0",
+  "description": "store api ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudh2705/store-api.git"
+  },
+  "author": "Anirudh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirudh2705/store-api/issues"
+  },
+  "homepage": "https://github.com/anirudh2705/store-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
